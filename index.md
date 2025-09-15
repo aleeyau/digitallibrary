@@ -6,7 +6,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi 
 
 1. [Phonics Stories Set 11](ebook/ebook 1.pdf) - Muhammad Yusuf (2025)
-2. 
+2. [Hujan Bulan Juni,Sapardi Djoko Damono](ebook/Hujan Bulan Juni) - Sapardi Djoko Damono (1994)
 
    ---
 
