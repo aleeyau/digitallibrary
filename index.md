@@ -12,7 +12,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Matahari](ebook/Matahari by Tere Liye.pdf) - Tere Liye (2016)
 6. [Bintang](ebook/Bintang by Tere Liye.pdf)- Tere Liye (2017)
 7. [Rumah Kaca](ebook/Rumah Kaca by Pramoedya Ananta Toer.pdf) - Pramoedya Ananta Toer (1988)
-8. [As Long As The Lemon Trees Grow](ebook/As Long As The Lemon Trees Grow by Zoulfa Katouh.pdf) - Zoulfa Katouh (2022)
+8. [As Long As the Lemon Trees Grow](ebook/As Long As the Lemon Trees Grow by Zoulfa Katouh.pdf) - Zoulfa Katouh (2022)
 9. [The 48 Laws of Power](ebook/The 48 Laws of Power.pdf) - Robert Greene (1998)
 10. [Madilog](ebook/Madilog by Tan Malaka.pdf) - Tan Malaka (1943)
 11. [Resume Visiting Prof](ebook/Resume Visiting Prof_Alya Fazila (1).pdf) - Alya Fazila (2025)
