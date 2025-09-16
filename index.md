@@ -16,7 +16,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [The 48 Laws of Power](ebook/The 48 Laws of Power.pdf) - Robert Greene (1998)
 10. [Madilog](ebook/Madilog by Tan Malaka.pdf) - Tan Malaka (1943)
 11. [Resume Visiting Prof](ebook/Resume Visiting Prof_Alya Fazila (1).pdf) - Alya Fazila (2025)
+
 [halaman1](webti/halaman1.html)  
+
    ---
 
    *Powered by Github Pages*
