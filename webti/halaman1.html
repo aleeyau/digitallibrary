@@ -1,0 +1,21 @@
+
+  </marquee>
+</marquee>
+<p>Klik tombol untuk menampilkan Prompt Box</p>
+<button onclick="myFunction()">Coba</button>
+<p id="demo"></p>
+<script>
+function myFunction() {
+    var x;
+    var nama = prompt("Anda telah mengambil matakuliah Pemrograman, ketikkan nama Anda!","Your Name Here");
+	var nim = prompt("Ketikkan nim Anda!");
+	var prodi = prompt("Ketikkan prodi Anda!");
+	// variabel prodi dihapus
+    if (nama != null) {
+        document.getElementById("demo").innerHTML =
+        "Selamat siang " + nama + "! Nim Anda : "+nim+"! Program Studi: "+prodi;
+    }
+}
+</script>
+</body>
+</html>
