@@ -18,7 +18,13 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Resume Visiting Prof](ebook/Resume Visiting Prof_Alya Fazila (1).pdf) - Alya Fazila (2025)
 
 [halaman1](webti/halaman1.html)  
-<a href="webti/halaman1.html">Halaman 1</a>
+<br> <a href="webti/halaman1.html">Halaman 1</a>
+<br> <a href="webti/halaman2.html">Halaman 2</a>
+<br> <a href="webti/halaman3.html">Halaman 3</a>
+<br> <a href="webti/halaman4.html">Halaman 4</a>
+<br> <a href="webti/halaman5.html">Halaman 5</a>
+<br> <a href="webti/halaman6.html">Halaman 6</a>
+<br> <a href="webti/halaman7.html">Halaman 7</a>
 
    ---
 
